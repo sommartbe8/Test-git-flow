@@ -1,0 +1,18 @@
+
+{
+    "home": {
+        "title" : "หน้าแรก",
+        "dialog":"ทดสอบ"
+    },
+    "config":{
+        "iso_code":"TH",
+        "prefix":"th_TH",
+        "title":"Thai"
+    },
+    "common":{
+        "add":"Add",
+        "cancle":"Cancle",
+        "close":"Close"
+
+    }
+}

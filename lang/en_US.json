@@ -1,0 +1,19 @@
+
+{
+    "home": {
+        "title" : "Home",
+        "dialog":"TEST"
+    },
+   
+    "config":{
+        "iso_code":"US",
+        "prefix":"en_US",
+        "title":"English"
+    },
+    "common":{
+        "add":"Add",
+        "cancle":"Cancle",
+        "close":"Close"
+
+    }
+}

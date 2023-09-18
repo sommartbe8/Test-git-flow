@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\contains\\contain_search copy.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\contains\\contain_search copy.dart"
+        }
+    ]
+}
